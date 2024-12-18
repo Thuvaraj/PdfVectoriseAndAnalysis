@@ -5,7 +5,7 @@ venv/
 *.env
 
 # Ignore storage directory
-storage/
+
 
 # Ignore compiled Python files
 __pycache__/
