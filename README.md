@@ -31,11 +31,3 @@ PdfVectoriseAndAnalysis/
 - Optional: **Virtual Environment** for dependency isolation.
 
 ---
-
-## Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/<username>/PdfVectoriseAndAnalysis.git
-cd PdfVectoriseAndAnalysis
