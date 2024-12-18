@@ -10,3 +10,5 @@ storage/
 # Ignore compiled Python files
 __pycache__/
 *.pyc
+
+*get-pip.py
