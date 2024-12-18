@@ -1,6 +1,6 @@
-# PdfVectoriseAndAnalyse (or New Project Name)
+# PdfVercotoriseAndAnalysis (or New Project Name)
 
-This project is designed to analyze and vectorize PDF documents, leveraging modern technologies like vector stores and GPT-4 for efficient document processing and question answering.
+This project is designed to analyze and vectorize PDF documents, leveraging modern technologies like vector stores and GPT-3.5 for efficient document processing and question answering.
 
 ---
 
@@ -8,7 +8,7 @@ This project is designed to analyze and vectorize PDF documents, leveraging mode
 
 - Upload PDF documents and store them in a vector database.
 - Process and analyze PDF data using Python.
-- Answer questions based on uploaded PDF content using GPT-4.
+- Answer questions based on uploaded PDF content using GPT-3.5.
 - Scalable and efficient backend for document storage and retrieval.
 
 ---
