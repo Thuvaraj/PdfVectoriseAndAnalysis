@@ -23,3 +23,8 @@ PdfVectoriseAndAnalyse/
 ├── storage/          # Folder for temporary document storage
 ├── venv/             # Virtual environment (ignored by Git)
 └── README.md         # Project documentation
+
+Prerequisites
+Python 3.8 (required)
+pip (Python package installer)
+Optional: Virtual Environment for dependency isolation.
